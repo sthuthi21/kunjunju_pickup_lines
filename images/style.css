@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    height: 100vh; /* Make container full viewport height */
+    font-family: sans-serif;
+}
+
+.cupid {
+    position: relative; /* For positioning the arrow */
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+#cupid {
+    width: 100%;
+    height: auto;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    left: 100%; /* Start off-screen to the right */
+    transform: translateY(-50%);
+    width: 50px; /* Adjust as needed */
+    height: auto;
+    transition: left 1s ease-in-out; /* Smooth animation */
+}
+
+.arrow.animate {
+    left: -50px; /* Move to the left (target) */
+}
+
+#pickupLine {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
