@@ -18,7 +18,7 @@ const pickupLines = [
   { en: "Hey, vedanayullidathellam parattam murivenna. Ee ente pranayam onnu manasilakiyal nee parayum 'Enikk ningal mathram mathi anna!'", ml: "ഹേയ്.. വേദനയുള്ളിടത്തെല്ലാം പരാട്ടം മുറിവെണ്ണ. – ഈ എൻ്റെ പ്രണയം ഒന്ന് മനസിലാക്കിയാൽ നീ പറയും \"എനിക്ക് നിങ്ങൾ മാത്രം മതി അണ്ണാ!\"" },
   { en: "Hey, kochukuttikale priya kalipattam kaatadi. Paksha ninte oru otta chiriyil njan flat-adi!", ml: "ഹേയ്.. കൊച്ചുകുട്ടികളുടെ പ്രിയപ്പെട്ട കളിപ്പാട്ടമാണ് കാറ്റാടി. – പക്ഷെ നിന്റെ ഒരു ഒറ്റ ചിരിയിൽ ഞാൻ ഫ്ലാറ്റാടി!" },
   { en: "Is your name Vasan Eye Care? Enikku nalla vyakthamayi nammude future kanan pattunnund!", ml: "നിന്റെ പേര് വസൻ ഐ കെയർ ആണോ? – എനിക്ക് നന്നായി നമുക്കു വേണാ ഭാവി കാണാൻ കഴിയുന്നുണ്ട്!" },
-  { en: "Gyaanichu tharum Sip Up, nee okay paranjal Thumbs Up, nee cheat cheythal Break Up!", ml: "ഞാൻ വാങ്ങി തരും സിപ് അപ്പ്, – നീ ഓക്കേ പറഞ്ഞാൽ തംബ് അപ്പ്, നീ ചീറ്റ് ചെയ്താൽ ബ്രേക്ക് അപ്പ്!" },
+  { en: "Vangichu tharum Sip Up, nee okay paranjal Thumbs Up, nee cheat cheythal Break Up!", ml: "ഞാൻ വാങ്ങി തരും സിപ് അപ്പ്, – നീ ഓക്കേ പറഞ്ഞാൽ തംബ് അപ്പ്, നീ ചീറ്റ് ചെയ്താൽ ബ്രേക്ക് അപ്പ്!" },
   { en: "Nee aalu oru mass, ninakku undoru fans, enikku undo oru chance?", ml: "നീ ആളൊരു മാസ്സ്, നിനക്ക് ഉണ്ടൊരു ഫാൻസ്, – എനിക്ക് ഉണ്ടോ ഒരു ചാൻസ്?" }
 
 ];
